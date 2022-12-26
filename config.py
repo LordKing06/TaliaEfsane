@@ -1,4 +1,4 @@
-# Degerleri "" parantez içine bırak confing otomatik görebilsin. 
+# Degerleri "" parantez içine bırak config otomatik görebilsin. 
 
 from os import getenv
 from dotenv import load_dotenv
